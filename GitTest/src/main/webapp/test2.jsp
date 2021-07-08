@@ -9,5 +9,6 @@
 <body>
 <h1>안녕</h1>
     git update2
+    원격조정
 </body>
 </html>
