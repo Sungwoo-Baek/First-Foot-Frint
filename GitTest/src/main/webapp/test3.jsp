@@ -7,14 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>안녕</h1>
-<<<<<<< HEAD
-elcipse update
-=======
-    git update2
-    원격조정
->>>>>>> refs/remotes/origin/master
 
-마스터
 </body>
 </html>
